@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
- <Gather input="speech" action="/completed" method='get'>
-           <Say>Welcome to Twilio, please tell us why you're calling</Say>
-        </Gather>
+  <Say voice="alice">hello world!</Say>
 </Response>
