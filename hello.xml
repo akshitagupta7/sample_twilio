@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-  <Say voice="Polly.Aditi" language="hi-IN">
-    kya kar rahe ho
-  </Say>
+  <Say voice="Polly.Aditi" language="hi-IN">क्या हाल है</Say>
 </Response>
