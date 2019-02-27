@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-  <Gather input="speech dtmf" timeout="3" numDigits="1">
-        <Say>
-            Please enter your account number,
-            followed by the pound sign
-        </Say>
-    </Gather>
-    <Say>We didn't receive any input. Goodbye!</Say>
+  <Gather>
+    <Say>1 1 1 1 1 1</Say>
+    <Say>2 2 2 2 2 2 </Say>
+    <Say>3 3 3 3 3 3 </Say>
+  </Gather>
 </Response>
